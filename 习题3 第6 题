@@ -1,0 +1,14 @@
+#include<iostream.h>
+void main()
+{
+float r,s,c;
+int k;
+cin>>r>>k;
+switch(k=)
+{
+case"k=1":cout<<s=πrr<<endl;break;
+case"k=2":cout<<c=2πr<<endl;break;
+case"k=3":cout<<s=πrr<<c=2πr<<endl;break;
+default:cout<<"输入有错误！\n";
+}
+}
